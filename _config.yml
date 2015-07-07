@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A blog where I review books that I read, and generally ramble about books too. I try to explore the ideas and emotions that the book brings out, rather than a mere summary.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: vkatariya8
+github_username:  vkatariya8
 
 # Build settings
 markdown: kramdown
