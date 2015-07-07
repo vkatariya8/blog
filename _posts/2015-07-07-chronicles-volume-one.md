@@ -4,6 +4,9 @@ title:  "Chronicles, Volume 1"
 date:   2015-07-07 19:45:11
 categories: autobiography book review
 ---
+
+![My helpfl](/assets/chronicles.jpg){: .center-image }
+
 If there’s one word to describe Bob Dylan’s character, I think that it would be laconic. That’s exactly what shines through when you read _Chronicles, Volume 1_. It isn’t your usual autobiography, and that’s clearly because of the fact that Bob Dylan isn’t your average human being. This is what he says of himself.
 
 > It wasn’t money or love that I was looking for. I had a heightened sense of awareness, was set in my ways, impractical and a visionary to boot.
@@ -14,6 +17,7 @@ What shines through in this book is the intimacy. Dylan leads a very private and
 I actually thought that Dylan had hired another author to get the book written for him. Boy, does he write good. He reads a lot, and had a very good taste in literature.
 
 > He questions everything. His clothes catch fire on a candle. He wonders if fire is a good sign. Balzac is hilarious.
+
 He has an amazing aptitude for poetry, which shines forth when you read the lyrics to his songs.
 
 > I began cramming my brain with all kinds of deep poems. It seemed like I’d been pulling an empty wagon for a long time and now I was beginning to fill it up and would have to pull harder. I felt like I was coming out of the back pasture. I was changing in other ways, too.
