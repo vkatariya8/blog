@@ -10,3 +10,4 @@ github_username:  vkatariya8
 facebook_username: vkatariya8
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->

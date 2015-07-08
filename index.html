@@ -13,7 +13,7 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+          <article style="font-size:0.8em;">{{ post.excerpt }}</article>
         </h2>
       </li>
     {% endfor %}

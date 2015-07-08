@@ -5,6 +5,9 @@ date:   2015-07-08 07:45:11
 categories: review
 ---
 
+by Jack Keruoac
+
+<!--more-->
 
 
 _The Dharma Bums_ is a very nice, refreshing read. Written by the great stalwart of the Beat generation, Jack Keruoac, it is infused with the signature lifestyle of the hipster generation. This book captures the spiritual nature of the counterculture through a catalogue of the life of the protagonist Ray Smith, and his best friend and counsellor Japhy Ryder.

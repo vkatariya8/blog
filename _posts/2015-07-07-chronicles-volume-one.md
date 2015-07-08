@@ -5,6 +5,9 @@ date:   2015-07-07 19:45:11
 categories: review
 ---
 
+by Bob Dylan
+<!--more-->
+
 
 If there’s one word to describe Bob Dylan’s character, I think that it would be laconic. That’s exactly what shines through when you read _Chronicles, Volume 1_. It isn’t your usual autobiography, and that’s clearly because of the fact that Bob Dylan isn’t your average human being. This is what he says of himself.
 
