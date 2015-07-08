@@ -2,7 +2,7 @@
 layout: post
 title:  "Dharma Bums"
 date:   2015-07-08 07:45:11
-categories: buddhism beat book review
+categories: review
 ---
 
 
@@ -11,13 +11,13 @@ _The Dharma Bums_ is a very nice, refreshing read. Written by the great stalwart
 
 ![My helpfl](/assets/dharma_bums.jpg){: .center-image height="400px"}
 
-——
+###---
 
 What I find peculiar about the whole book is the intimacy with which the characters speak of Buddhism. I find it slightly disturbing, or even annoying, that they call each other Bodhisattvas, and reincarnations of Buddhist saints of the past. I also find it disturbing that Ray, while following some of the tenets of Buddhism, and indulging in meditation, still is a heavy drinker. It’s not that I am judging him, but that I thought religion was to be put on a pedestal and kept pure.
 
 However, that isn’t the case. Here, Buddhism isn’t portrayed exactly as the Buddhism of the East or the Orient, it is portrayed as a spiritual exercise and way of life. It is not treated as a religion. Thus, Keruoac paints a vivid, albeit skewed, picture of the Buddhist philosophies, and is also justified in doing so.
 
-——
+###---
 
 The nature trails and treks described in the book are truly surreal. The best is this passage :
 
@@ -33,7 +33,8 @@ This again, is a superb description. Everything that you see, feel, hear, taste 
 
 > One afternoon I was sitting with some children in the grass and they asked me "Why is the sky blue?" "Because the sky is blue." "I wanta know why the sky is blue." "The sky is blue because you wanta know why the sky is blue."
 
-——
+
+###---
 
 > Comparisons are odious.
 

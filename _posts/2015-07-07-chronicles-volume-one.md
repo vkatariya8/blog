@@ -2,7 +2,7 @@
 layout: post
 title:  "Chronicles, Volume 1"
 date:   2015-07-07 19:45:11
-categories: autobiography book review
+categories: review
 ---
 
 
