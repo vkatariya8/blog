@@ -14,6 +14,14 @@ _The Dharma Bums_ is a very nice, refreshing read. Written by the great stalwart
 
 ![My helpfl](/assets/dharma_bums.jpg){: .center-image height="400px"}
 
+
+The book is primarily about Buddhism, and has travel as an inseparable, intertwined portion. It catalogues the emergence of Zen Buddhism in the American generation of the 40s and 50s. It is a memoir of Keruoac’s experiences, as well as a guidebook and anthology. It’s a bit of an autobiographical book since Ray Smith is modelled after Keruoac. In fact, most of the characters in the book are modelled after real-life people, including Allen Ginsberg and the inimitable Neal Cassady (immortalised as Dean Moriarty in _On the Road_).
+
+Ray Smith is an upcoming poet who leads the ‘new’ life, full of revelry, party and drink. Japhy, on the other hand, is one who years for simplicity and austerity. He is always giving away things, practising charity, and composing, interpreting or translating poems. To him, divining new prayers, composing new, creative haikus are the ‘cool’ things to do. Japhy is the kind of friend that one needs as a teacher as he is an epitome of what Zen Buddhism specifies. 
+
+The book centers around these two people and the interactions they have with the people around them. There is one hike up to Mount Matterhorn in California, and Ray ends the book with a summer job on Desolation Peak. This refers to the mountains being a place of solitude conducive to the meditation that is central to Buddhism.
+
+
 ###---
 
 What I find peculiar about the whole book is the intimacy with which the characters speak of Buddhism. I find it slightly disturbing, or even annoying, that they call each other Bodhisattvas, and reincarnations of Buddhist saints of the past. I also find it disturbing that Ray, while following some of the tenets of Buddhism, and indulging in meditation, still is a heavy drinker. It’s not that I am judging him, but that I thought religion was to be put on a pedestal and kept pure.
