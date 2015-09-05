@@ -7,17 +7,16 @@ categories: review
 
 by Jack Keruoac
 
-<!--more-->
-
-
 _The Dharma Bums_ is a very nice, refreshing read. Written by the great stalwart of the Beat generation, Jack Keruoac, it is infused with the signature lifestyle of the hipster generation. This book captures the spiritual nature of the counterculture through a catalogue of the life of the protagonist Ray Smith, and his best friend and counsellor Japhy Ryder.
+
+<!--more-->
 
 ![My helpfl](/assets/dharma_bums.jpg){: .center-image height="400px"}
 
 
 The book is primarily about Buddhism, and has travel as an inseparable, intertwined portion. It catalogues the emergence of Zen Buddhism in the American generation of the 40s and 50s. It is a memoir of Keruoac’s experiences, as well as a guidebook and anthology. It’s a bit of an autobiographical book since Ray Smith is modelled after Keruoac. In fact, most of the characters in the book are modelled after real-life people, including Allen Ginsberg and the inimitable Neal Cassady (immortalised as Dean Moriarty in _On the Road_).
 
-Ray Smith is an upcoming poet who leads the ‘new’ life, full of revelry, party and drink. Japhy, on the other hand, is one who yearns for simplicity and austerity. He is always giving away things, practising charity, and composing, interpreting or translating poems. To him, divining new prayers, composing new, creative haikus are the ‘cool’ things to do. Japhy is the kind of friend that one needs as a teacher as he is an epitome of what Zen Buddhism specifies. 
+Ray Smith is an upcoming poet who leads the ‘new’ life, full of revelry, party and drink. Japhy, on the other hand, is one who yearns for simplicity and austerity. He is always giving away things, practising charity, and composing, interpreting or translating poems. To him, divining new prayers, composing new, creative haikus are the ‘cool’ things to do. Japhy is the kind of friend that one needs as a teacher as he is an epitome of what Zen Buddhism specifies.
 
 The book centers around these two people and the interactions they have with the people around them. There is one hike up to Mount Matterhorn in California, and Ray ends the book with a summer job on Desolation Peak. This refers to the mountains being a place of solitude conducive to the meditation that is central to Buddhism.
 
